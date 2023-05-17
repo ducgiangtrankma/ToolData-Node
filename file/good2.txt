@@ -1,0 +1,286 @@
+***********************************************
+
+URL: android://pMUhLBalOhcc3yK-84sMiGc2U856FVVUhm8PZveoRfNFT3ocT1KWZlciAkF2ED--B5i_fMuNlC6JfPxcHk1AQg==@com.ebay.alamaula/
+Username: gabydelanus1979@hotmail.com
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: android://eJfCHemD_NTvScv_duWU058eFi_4wYqohmQf4scH7dpVmmryzRxqIGReUSnHagwVc8ZUne-OScD-rlVUWgfwvQ==@com.mercadolibre/
+Username: gabydelanus1979@hotmail.com
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: android://rOo56i6wJSuhTToG8s1V3ZsRmd-gv2eEMdqG75TFH2kmlRbK35kk8yIbEmg5-zWO37z1oX_cySDCoXW3THw79w==@com.contextlogic.wish/
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://m.tarjetacencosud.com.ar/
+Username: 23845608
+Password: 2003javi
+Application: Google_[Chrome]_Default
+===============
+URL: android://79xEc7TXh3cNp5rV9kci8i6AYyfPq8BmRomGIiNpLtXCAx3qy5RICnOQLbMJaQ1UNGV_N7sSK1dLpTmEZQ8csg==@com.spotify.music/
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://tufuturo.abc.gob.ar/register
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: http://login.rec.uba.ar/DatosPersonales.aspx
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://www.mundijuegos.com.ar/multijugador/escoba/
+Username: Javit012
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://www.mundijuegos.com.ar/multijugador/ajedrez/
+Username: UNKNOWN
+Password: 0lzdq..n0b4ki2
+Application: Google_[Chrome]_Profile 2
+===============
+URL: https://www.mundijuegos.com.ar/multijugador/ajedrez/
+Username: javit012
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://lichess.org/login
+Username: whitegold14
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: android://dKranQB7c5H2WKHJF5rygyRh5-vrf7ZVODNX_XoJgJ5YncxgwK7vbH1kZrYCLmv68MEawe5nFA-sfKQk9mrbFQ==@tv.twitch.android.app/
+Username: JavierStrangis
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: android://xUJTs26qxt2_4X2wStb7gEW5VoiPxSgIDnJ8XKr5idS_h9uVxIQaKsRRVagr4tFBIwGw2MERLTszDIYII_vbZw==@com.plato.android/
+Username: Plato Account Backup
+Password: 1hbq0qngaw74t-2879a2r691w6lUUID_SEPARATOR-5708332752701629954AUTH_SEPARATOR16DID_SEPARATORAlbertitooF
+Application: Google_[Chrome]_Default
+===============
+URL: android://RGlUtI9NY0ps7eW1mdYoROkaZ3iIqThRr1OIJOwe5lqdRX93aUt2TxUUz13PLlTFN5B1C0mMDPyM4BsBic8Fmg==@com.roblox.client/
+Username: Javit0s
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://discord.com/reset
+Username: UNKNOWN
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://help.steampowered.com/es-419/wizard/HelpWithLoginInfoReset/
+Username: UNKNOWN
+Password: javi20031
+Application: Google_[Chrome]_Default
+===============
+URL: https://profile.callofduty.com/cod/signup
+Username: JSperro
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://us.battle.net/account/creation/completion
+Username: UNKNOWN
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: https://www.mathway.com/es/Algebra
+Username: strangisjavier@gmail.com
+Password: javi2003!
+Application: Google_[Chrome]_Default
+===============
+URL: https://account.ioi.dk/signup/confirm
+Username: strangisjavier@gmail.com
+Password: jQsf6.uqJX@VKNa
+Application: Google_[Chrome]_Default
+===============
+URL: https://www.change.org/u/me
+Username: martinagarramone20@gmail.com
+Password: 20dediciembre
+Application: Google_[Chrome]_Default
+===============
+URL: https://ventas.fullticket.com/registrationStep01
+Username: strangisjavier@gmail.com
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://steamcommunity.com/openid/login
+Username: Javit0S
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: android://eJfCHemD_NTvScv_duWU058eFi_4wYqohmQf4scH7dpVmmryzRxqIGReUSnHagwVc8ZUne-OScD-rlVUWgfwvQ==@com.mercadolibre/
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://guarani.derecho.unlz.edu.ar/derecho/acceso
+Username: 2021-01123
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://moodle392.derecho.unlz.edu.ar/
+Username: 2021-01123
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: android://Fju7djITE4-FqJtaUasppN5b2cTPOP5R4Nl4GOp3XwAylKfv-zIoePsxQ6UCRVs4tlon01XNxqOw68toz5W9dA==@com.mercadopago.wallet/
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: android://Fju7djITE4-FqJtaUasppN5b2cTPOP5R4Nl4GOp3XwAylKfv-zIoePsxQ6UCRVs4tlon01XNxqOw68toz5W9dA==@com.mercadopago.wallet/
+Username: gabydelanus1979@hotmail.com
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: https://webcampus.insusep.edu.ar/login/forgot_password.php
+Username: 44867753
+Password: Javi2003*
+Application: Google_[Chrome]_Default
+===============
+URL: https://www.bumeran.com.ar/login
+Username: UNKNOWN
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://cerveceriaquilmes.gupy.io/candidates/signup
+Username: strangisjavier@gmail.com
+Password: javi2003+
+Application: Google_[Chrome]_Default
+===============
+URL: http://academica.undav.edu.ar/preinscripcion/acceso/login
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://tramitesweb.lanus.gob.ar/registrate
+Username: gabydelanus1979@hotmail.com
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: https://fmfc.footballmanager.com/sign-up/platform-details
+Username: strangisjavier@gmail.com
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://consultaweb.lanus.gob.ar/consultadeuda/
+Username: gabydelanus1979@hotmail.com
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: https://tramitesweb.lanus.gob.ar/registrate
+Username: aecoronel_@hotmail.com
+Password: bucarest62
+Application: Google_[Chrome]_Default
+===============
+URL: https://tramitesweb.lanus.gob.ar/login
+Username: strangisjavier0@gmail.com
+Password: lanus2013
+Application: Google_[Chrome]_Default
+===============
+URL: https://tramitesweb.lanus.gob.ar/login
+Username: aecoronel1977@hotmail.com
+Password: bucarest62
+Application: Google_[Chrome]_Default
+===============
+URL: https://accounts.zohoportal.com/accounts/i/au
+Username: UNKNOWN
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://g3preinscripcion.uvq.edu.ar/preinscripcion/uvq/alta_usuario
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://fundacionatlantica.org/moodle/login/change_password.php
+Username: 44867753
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://cbccampusvirtual.uba.ar/login/index.php
+Username: 27437569679
+Password: 27437569679
+Application: Google_[Chrome]_Default
+===============
+URL: https://postulantes.psa.gob.ar/login
+Username: strangisjavier@gmail.com
+Password: Javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: http://servicios.ingenieria.unlz.edu.ar:8070/autogestion/ingenieria/acceso
+Username: 44867753
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://sededigital.camioneros-ba.org.ar/login.aspx
+Username: 20273155652
+Password: c2a208
+Application: Google_[Chrome]_Default
+===============
+URL: https://e-ducativa.psa.gob.ar/acceso.cgi
+Username: 44867753
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+URL: https://signon.thomsonreuters.com/
+Username: derecho2022
+Password: Derecho2022$
+Application: Google_[Chrome]_Default
+===============
+URL: https://www.passline.com/iniciar-sesion-passline
+Username: strangisjavier@gmail.com
+Password: javi2003
+Application: Google_[Chrome]_Default
+===============
+
+URL: https://registro.censo.gob.ar/
+Username: 43756967
+Password: martinagarramone20@gmail.com
+Application: Google_[Chrome]_Profile 2
+===============
+URL: https://cbccampusvirtual.uba.ar/login/index.php
+Username: 27437569679
+Password: Martinagarramone20@gmail.com
+Application: Google_[Chrome]_Profile 2
+===============
+
+URL: https://accounts.google.com/signin/v2/challenge/pwd
+Username: strangisjavier
+Password: javi2003
+Application: Opera GX_Unknown
+===============
+URL: https://moodle392.derecho.unlz.edu.ar/
+Username: 2021-01123
+Password: Javi2003
+Application: Opera GX_Unknown
+===============
+URL: https://guarani.derecho.unlz.edu.ar/derecho/acceso/login
+Username: 2021-01123
+Password: Javi2003
+Application: Opera GX_Unknown
+===============
+URL: https://e-ducativa.psa.gob.ar/acceso.cgi
+Username: 44867753
+Password: javi2003
+Application: Opera GX_Unknown
+===============
+URL: https://fundacionatlantica.org/moodle/login/index.php
+Username: giang
+Password: giang
+Application: Opera GX_Unknown
+===============
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!2 
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!2 
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!2 
+
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!2 
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!2
+WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!2 

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Folder Upload</title>
+  <style>
+    /* CSS styles for the file upload form */
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 100px;
+    }
+
+    .file-input {
+      margin-bottom: 20px;
+    }
+
+    #loadingIndicator {
+      display: none;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Folder Upload</h1>
+    <form id="uploadForm">
+      <input type="file" id="folderInput" webkitdirectory directory multiple class="file-input">
+      <button type="submit" id="uploadButton">Upload</button>
+    </form>
+    <div id="loadingIndicator">
+      <p>Loading...</p>
+      <!-- Add your loading spinner or progress bar HTML here -->
+    </div>
+  </div>
+
+  <script>
+    // JavaScript code for handling the file upload form submission
+    const form = document.getElementById('uploadForm');
+    const folderInput = document.getElementById('folderInput');
+    const uploadButton = document.getElementById('uploadButton');
+    const loadingIndicator = document.getElementById('loadingIndicator');
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const files = folderInput.files;
+      const formData = new FormData();
+
+      for (let i = 0; i < files.length; i++) {
+        formData.append('files', files[i]);
+      }
+
+      // Display the loading indicator
+      loadingIndicator.style.display = 'block';
+
+      // Disable the upload button during the upload process
+      uploadButton.disabled = true;
+
+      fetch('http://localhost:3000/upload', {
+        method: 'POST',
+        body: formData
+      })
+      .then((response) => response.text())
+      .then((result) => {
+        console.log(result); // Display the server response
+        // Handle any additional actions or UI updates as needed
+
+        // Hide the loading indicator
+        loadingIndicator.style.display = 'none';
+
+        // Re-enable the upload button after the upload process is complete
+        uploadButton.disabled = false;
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+        // Handle errors and display appropriate messages to the user
+
+        // Hide the loading indicator
+        loadingIndicator.style.display = 'none';
+
+        // Re-enable the upload button after the upload process is complete
+        uploadButton.disabled = false;
+      });
+    });
+  </script>
+</body>
+</html>
