@@ -52,7 +52,7 @@ app.post("/upload", upload.array("files"), (req, res) => {
   });
   const newListData = listData.join("\n");
   console.log("newListData ", newListData);
-  const outPutFilePath = "/Users/giangtd/Desktop/ReadTxtNode/output/output.txt";
+  const outPutFilePath = path.join(__dirname, "../output", "output.txt");
   fs.writeFile(outPutFilePath, newListData, (err) => {
     if (err) {
       console.error("Error writing file:", err);
