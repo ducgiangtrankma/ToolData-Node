@@ -26,8 +26,6 @@ app.post("/upload", upload.array("files"), (req, res) => {
       dataArray.push(arrayData);
     }
   });
-  // const jsonData = JSON.stringify(dataArray[0]);
-  // const arrayData = jsonData.split("===============");
   const listData = [];
   dataArray.flat().map((item) => {
     const usernameStartIndex = item.indexOf("Username:") + "Username:".length;
@@ -51,14 +49,12 @@ app.post("/upload", upload.array("files"), (req, res) => {
     }
   });
   const newListData = listData.join("\n");
-  console.log("newListData ", newListData);
   const outPutFilePath = path.join(__dirname, "../output", "output.txt");
   fs.writeFile(outPutFilePath, newListData, (err) => {
     if (err) {
       console.error("Error writing file:", err);
       return;
     }
-
     console.log("File write operation completed successfully.");
   });
   res.send("Files processed successfully!");

@@ -30,12 +30,10 @@
     </form>
     <div id="loadingIndicator">
       <p>Loading...</p>
-      <!-- Add your loading spinner or progress bar HTML here -->
     </div>
   </div>
 
   <script>
-    // JavaScript code for handling the file upload form submission
     const form = document.getElementById('uploadForm');
     const folderInput = document.getElementById('folderInput');
     const uploadButton = document.getElementById('uploadButton');
@@ -50,10 +48,8 @@
         formData.append('files', files[i]);
       }
 
-      // Display the loading indicator
       loadingIndicator.style.display = 'block';
 
-      // Disable the upload button during the upload process
       uploadButton.disabled = true;
 
       fetch('http://localhost:3000/upload', {
@@ -62,23 +58,17 @@
       })
       .then((response) => response.text())
       .then((result) => {
-        console.log(result); // Display the server response
-        // Handle any additional actions or UI updates as needed
+        console.log(result); 
 
-        // Hide the loading indicator
         loadingIndicator.style.display = 'none';
 
-        // Re-enable the upload button after the upload process is complete
         uploadButton.disabled = false;
       })
       .catch((error) => {
         console.error('Error:', error);
-        // Handle errors and display appropriate messages to the user
-
-        // Hide the loading indicator
+ 
         loadingIndicator.style.display = 'none';
 
-        // Re-enable the upload button after the upload process is complete
         uploadButton.disabled = false;
       });
     });
